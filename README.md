@@ -30,7 +30,7 @@ android-kotlin-app/app/src/main/AndroidManifest.xml
 For the meta-date setting com.rollbar.android.ACCESS_TOKEN, add a Rollbar Project post_client_item access token
 
 ## Step 7 
-Run the application
+Build and run the application
 
 # Troublshooting Tips
 
